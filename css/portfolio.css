@@ -8,8 +8,6 @@ html {
 
 body {
   margin: 0;
-  /* background-color: #946846; */
-  /* background-attachment: fixed; */
   font-family: 'Hero';
 }
 
@@ -91,6 +89,10 @@ p {
 
 .name::first-letter {
   color: #946846;
+}
+
+.description-text {
+  word-spacing: 1rem;
 }
 
 .uppercase {
