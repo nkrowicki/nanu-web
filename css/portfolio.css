@@ -80,6 +80,11 @@ p {
 }
 
 /* First */
+
+.first-section {
+  min-height: 730px;
+}
+
 .name {
   position: absolute;
   top: 25%;
