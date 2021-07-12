@@ -1,0 +1,7 @@
+@font-face {
+  font-family: 'Hero';
+  src: url(../fonts/Hero.eot);
+  src: url(../fonts/Hero.eot?#iefix) format('embedded-opentype'), url(../fonts/Hero.ttf) format('truetype'),
+    url(../fonts/Hero.svg#Hero) format('svg'), url(../fonts/Hero.woff) format('woff'),
+    url(./fonts/Hero.woff2) format('woff2');
+}
